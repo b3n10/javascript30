@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "light-server -p 8005 -s . -w './**' --historyindex '/index.html' -o"
+  },
+  "devDependencies": {
+    "light-server": "../../"
+  }
+}
