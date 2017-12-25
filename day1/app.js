@@ -7,5 +7,15 @@ window.addEventListener("keydown", function(event) {
 	//play audio clip and add animation to div element
 	audio.currentTime = 0;//rewind audio on every keydown
 	audio.play();
-	key.classList.add('playing');
+	key.classList.add("playing");
 });
+
+function removeTransform(event) {
+	if (event.propertyName != "transform") {
+		return;//do nothing if not transform event
+	}
+	this.classList.remove("playing");
+}
+
+const keys = document.querySelectorAll(".key");// Node (array) of all key
+keys.forEach(key => key.addEventListener("transitionend", removeTransform));
