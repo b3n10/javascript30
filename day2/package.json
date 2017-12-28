@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "dev": "light-server -p 8005 -s . -w './**' --historyindex '/index.html' -o"
+    "dev": "light-server -s . -b localhost -p 3333 -w './**' --historyindex '/index.html' -o"
   },
   "devDependencies": {
     "light-server": "../../"
