@@ -1,0 +1,19 @@
+{
+  "name": "day3_js30days",
+  "version": "1.0.0",
+  "description": "Day 3 of JavaScript 30 days by Wes Bos",
+	"main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "light-server -s . -b localhost -p 3333 -w './**' --historyindex '/index.html' -o"
+  },
+  "keywords": [
+    "js",
+    "30"
+  ],
+  "author": "Ben Lleve",
+  "license": "MIT",
+  "devDependencies": {
+    "light-server": "^2.2.1"
+  }
+}
