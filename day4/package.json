@@ -1,0 +1,22 @@
+{
+  "name": "day4",
+  "version": "1.0.0",
+  "description": "Day 4 JS30",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b3n10/javascript30.git"
+  },
+  "author": "Ben Lleve",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/b3n10/javascript30/issues"
+  },
+  "homepage": "https://github.com/b3n10/javascript30#readme",
+  "devDependencies": {
+    "light-server": "^2.2.1"
+  }
+}
