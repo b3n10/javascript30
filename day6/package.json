@@ -1,11 +1,11 @@
 {
   "name": "daynumber",
   "version": "1.0.0",
-  "description": "XXX - 30 Day Vanilla JS Coding Challenge",
+  "description": "Ajax Type Ahead with fetch() - #JavaScript30 6/30",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-		"dev": "light-server -s . -b localhost -p 3333 -w './**' --historyindex '/index.html' -o"
+    "dev": "light-server -s . -b localhost -p 3333 -w './**' --historyindex '/index.html' -o"
   },
   "repository": {
     "type": "git",
@@ -25,6 +25,6 @@
   "devDependencies": {
     "light-server": "^2.2.1"
   },
-	"homepage1": "https://www.youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH",
-	"homepage2": "https://javascript30.com"
+  "homepage1": "https://www.youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH",
+  "homepage2": "https://javascript30.com"
 }
