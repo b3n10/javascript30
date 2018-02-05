@@ -1,12 +1,10 @@
 {
-  "port": 3241,
-  "bind": "localhost",
   "serve": ".",
+  "bind": "localhost",
+  "port": 3333,
   "watchexps": [
     "./**"
   ],
-  "quiet": false,
-  "open": true,
   "historyindex": "/index.html",
-  "http2": false
+  "open": true
 }
