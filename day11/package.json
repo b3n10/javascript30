@@ -1,11 +1,10 @@
 {
   "name": "daynumber",
   "version": "1.0.0",
-  "description": "XXX - 30 Day Vanilla JS Coding Challenge",
+  "description": "Day11 - 30 Day Vanilla JS Coding Challenge",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-		"dev": "light-server -s . -b localhost -p 3333 -w './**' --historyindex '/index.html' -o"
+		"dev": "light-server -c light-server.json"
   },
   "repository": {
     "type": "git",
