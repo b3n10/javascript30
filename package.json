@@ -2,7 +2,7 @@
 	"name": "daynumber",
 	"version": "1.0.0",
 	"description": "",
-	"main": "app.js",
+	"main": "src/main.js",
 	"scripts": {
 		"dev": "light-server -c light-server.json"
 	},
