@@ -1,29 +1,31 @@
 {
-	"name": "daynumber",
-	"version": "1.0.0",
-	"description": "",
-	"main": "src/main.js",
-	"scripts": {
-		"dev": "light-server -c light-server.json"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/b3n10/javascript30.git"
-	},
-	"keywords": [
-		"js",
-		"html",
-		"css",
-		"js30"
-	],
-	"author": "Ben Lleve",
-	"license": "MIT",
-	"bugs": {
-		"url": "https://github.com/b3n10/javascript30/issues"
-	},
-	"devDependencies": {
-		"light-server": "^2.2.1"
-	},
-	"homepage1": "https://www.youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH",
-	"homepage2": "https://javascript30.com"
+  "name": "daynumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "light-server -c light-server.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b3n10/javascript30.git"
+  },
+  "keywords": [
+    "js",
+    "html",
+    "css",
+    "js30"
+  ],
+  "author": "Ben Lleve",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/b3n10/javascript30/issues"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "light-server": "^2.2.1"
+  },
+  "homepage1": "https://www.youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH",
+  "homepage2": "https://javascript30.com"
 }
