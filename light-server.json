@@ -2,9 +2,7 @@
   "port": 3241,
   "bind": "localhost",
   "serve": ".",
-  "watchexps": [
-    "./**"
-  ],
+  "watchexps": ["./**"],
   "quiet": false,
   "open": true,
   "historyindex": "/index.html",
