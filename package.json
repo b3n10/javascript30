@@ -4,8 +4,8 @@
 	"description": "Exercise project using JavaScript 30 Tutorial by Wes Bos",
 	"main": "src/main.js",
 	"scripts": {
-		"build": "babel src -w -d lib",
-		"dev": "light-server -c .lightserverrc"
+		"build": "../node_modules/.bin/babel src -w -d lib",
+		"dev": "../node_modules/.bin/light-server -c .lightserverrc"
 	},
 	"repository": {
 		"type": "git",
