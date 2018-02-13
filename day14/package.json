@@ -1,0 +1,35 @@
+{
+  "name": "daynumber",
+  "version": "1.0.0",
+  "description": "Exercise project using JavaScript 30 Tutorial by Wes Bos",
+  "main": "src/main.js",
+  "scripts": {
+    "build": "../node_modules/.bin/babel src -w -d lib",
+    "dev": "../node_modules/.bin/light-server -c .lightserverrc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b3n10/javascript30.git"
+  },
+  "keywords": [
+    "js",
+    "html",
+    "css",
+    "js30"
+  ],
+  "author": "Ben Lleve",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/b3n10/javascript30/issues"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-eslint": "^8.2.1",
+    "babel-preset-env": "^1.6.1",
+    "eslint": "^4.17.0",
+    "eslint-plugin-react": "^7.6.1",
+    "light-server": "^2.2.1"
+  },
+  "homepage1": "https://www.youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH",
+  "homepage2": "https://javascript30.com"
+}
