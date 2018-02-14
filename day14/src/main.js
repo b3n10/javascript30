@@ -39,7 +39,7 @@ console.log("Spread Lakers: ", lakers5);
 
 // copy and make changes on original array
 const lakers1 = lakers;
-lakers1[0] = "thomas";
+lakers[0] = "thomas";
 console.log("Copy Lakers: ", lakers1);
 console.log("Lakers: ", lakers);
 
