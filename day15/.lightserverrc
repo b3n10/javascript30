@@ -1,0 +1,12 @@
+{
+	"port": 8080,
+		"bind": "localhost",
+		"serve": ".",
+		"watchexps": [
+			"./**"
+		],
+		"quiet": false,
+		"open": true,
+		"historyindex": "/index.html",
+		"http2": false
+}

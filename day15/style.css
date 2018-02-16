@@ -1,0 +1,49 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+.wrapper {
+	width: 400px;
+	margin: 0 auto;
+	border: 1px solid #ccc;
+	padding: 20px 10px;
+}
+
+h2 {
+	text-align: center;
+	text-transform: uppercase;
+}
+
+form.add-items {
+	width: 100%;
+	text-align: center;
+}
+
+.plates {
+	list-style: none;
+	padding: 3px 60px;
+	margin: 0;
+}
+
+.plates > li {
+	padding: 5px;
+	border-bottom: 1px solid #ccc;
+}
+
+label {
+	cursor: pointer;
+}
+
+input[type=text] {
+	padding: 10px;
+}
+
+input[type=submit] {
+	padding: 10px;
+	background: #ccc;
+	border: 1px solid #ccc;
+	border-radius: 2px;
+}
+
