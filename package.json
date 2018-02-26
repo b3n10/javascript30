@@ -4,8 +4,8 @@
   "description": "Exercise project using JavaScript 30 Tutorial by Wes Bos",
   "main": "src/main.js",
   "scripts": {
-    "test": "../node_modules/.bin/eslint src/ && ../node_modules/.bin/babel src/ -d lib",
-    "dev": "../node_modules/.bin/light-server -c .lightserverrc"
+    "test": "eslint src/ && babel src/ -d lib",
+    "dev": "light-server -c .lightserverrc"
   },
   "repository": {
     "type": "git",
