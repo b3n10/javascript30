@@ -1,0 +1,18 @@
+h1 {
+	text-align: center;
+}
+
+ul#bands {
+	margin: 0 auto;
+	width: 180px;
+	border: 1px solid #ccc;
+	padding: 0px 20px;
+}
+
+ul > li {
+	padding: 10px 0;
+	border-bottom: 1px solid #ccc;
+}
+ul > li:last-of-type {
+	border-bottom: none;
+}
