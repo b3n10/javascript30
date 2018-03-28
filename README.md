@@ -4,6 +4,11 @@
 
 Exercises taught by Wes Bos using Vanilla JavaScript, no frameworks
 
+### Github page
+
+Visit index page [here.](https://b3n10.github.io/javascript30/)
+
+
 ### List of projects
 
   - [Day 1 - Drum Kit](https://b3n10.github.io/javascript30/day1/)
@@ -25,8 +30,5 @@ Exercises taught by Wes Bos using Vanilla JavaScript, no frameworks
   - [Day 17 - Band Names Sorted](https://b3n10.github.io/javascript30/day17/)
   - [Day 18 - Exercises via console]
 
-### Github page
-
-Visit index page [here.](https://b3n10.github.io/javascript30/)
 
 ### Credits to Wes Bos: [YouTube channel link](https://www.youtube.com/user/wesbos)
