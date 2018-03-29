@@ -29,6 +29,9 @@ Visit index page [here.](https://b3n10.github.io/javascript30/)
   - [Day 16 - CSS Text Shadow](https://b3n10.github.io/javascript30/day16/)
   - [Day 17 - Band Names Sorted](https://b3n10.github.io/javascript30/day17/)
   - [Day 18 - Exercises via console]
+  - [Day 19 - Only applicable with Webcam]
+  - [Day 20 - Only applicable with Microphone]
+  - [Day 21 - Only applicable with Geolocation]
 
 
 ### Credits to Wes Bos: [YouTube channel link](https://www.youtube.com/user/wesbos)
