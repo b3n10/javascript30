@@ -1,0 +1,52 @@
+* {
+	box-sizing: border-box;
+	font-family: "Verdana", sans-serif;
+}
+body {
+	background-color: #ccc;
+	margin: 0;
+	padding: 0;
+}
+
+nav {
+	width: 450px;
+	margin: 10px auto;
+}
+
+.menu {
+	width: 100%;
+	list-style: none;
+	padding-top: 10px;
+}
+.menu li {
+	float: left;
+	display: block;
+	padding: 10px 20px;
+}
+
+a,
+a:hover {
+	color: #000;
+	text-decoration: none;
+}
+
+.wrapper {
+	padding: 50px 100px;
+}
+.wrapper p {
+	font-size: 0.9em;
+	line-height: 1.8;
+}
+
+.highlight {
+	display: block;
+	background-color: #fff;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -1;
+	border-bottom: 2px solid #fff;
+	border-radius: 20px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+	transition: all 0.2s;
+}
