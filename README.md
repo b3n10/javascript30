@@ -32,9 +32,9 @@ Visit index page [here.](https://b3n10.github.io/javascript30/)
   - [Day 19 - Only applicable with Webcam]
   - [Day 20 - Only applicable with Microphone]
   - [Day 21 - Only applicable with Geolocation]
-  - [Day 22- Follow Along Links](https://b3n10.github.io/javascript30/day22/)
+  - [Day 22 - Follow Along Links](https://b3n10.github.io/javascript30/day22/)
   - [Day 23 - Only applicable with Microphone]
-  - [Day 24- Sticky Nav](https://b3n10.github.io/javascript30/day24/)
+  - [Day 24 - Sticky Nav](https://b3n10.github.io/javascript30/day24/)
 
 
 ### Credits to Wes Bos: [YouTube channel link](https://www.youtube.com/user/wesbos)
