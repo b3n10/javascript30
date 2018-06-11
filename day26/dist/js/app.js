@@ -1,0 +1,1 @@
+"use strict";console.log("ben");var arr=document.getElementsByClassName("arrow")[0];arr.addEventListener("click",function(){console.log("test")});
