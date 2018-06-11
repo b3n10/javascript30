@@ -36,6 +36,7 @@ Visit index page [here.](https://b3n10.github.io/javascript30/)
   - [Day 23 - Only applicable with Microphone]
   - [Day 24 - Sticky Nav](https://b3n10.github.io/javascript30/day24/)
   - [Day 25 - Event Capture, Propagation, Bubbling](https://b3n10.github.io/javascript30/day25/)
+  - [Day 26 - Stripe Follow Along Dropdown Navigation](https://b3n10.github.io/javascript30/day26/dist/)
 
 
 ### Credits to Wes Bos: [YouTube channel link](https://www.youtube.com/user/wesbos)
